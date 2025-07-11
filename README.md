@@ -1,6 +1,7 @@
 ## Hi there 👋
-![LinkedIn](https://img.shields.io/badge/-LinkedIn-bleu?style=flat-square&logo=LinkedIn)
-Bio
+<a href="https://www.linkedin.com/in/alla-eddine-boukabou/" target="_blank">![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=LinkedIn)</a>
+
+## Bio 
 
 ## ⚡ GitHub Stats
 
