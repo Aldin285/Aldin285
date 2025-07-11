@@ -1,5 +1,5 @@
 ## Hi there 👋
-![LinkedIn](https://img.shields.io/badge/-LinkedIn-black?style=flat-square&logo=git)
+![LinkedIn](https://img.shields.io/badge/-LinkedIn-bleu?style=flat-square&logo=LinkedIn)
 Bio
 
 ## ⚡ GitHub Stats
