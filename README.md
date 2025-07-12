@@ -1,4 +1,10 @@
 <a href="https://www.linkedin.com/in/alla-eddine-boukabou/" target="_blank">![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=LinkedIn)</a>
+</br>
+<a href="https://www.linkedin.com/in/alla-eddine-boukabou/" target="_blank">
+ 
+[![My Skills](https://skillicons.dev/icons?i=linkedin)](https://skillicons.dev)
+</a>
+
 ## Hi there 👋
 Étudiant en B3 à Sup de Vinci, école d'informatique et d'ingénierie des systèmes informatiques.
 
@@ -10,7 +16,10 @@
 <a href="https://github.com/Aldin285/Plateforme_Discord-" target="_blank"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Aldin285&repo=Plateforme_Discord-&theme=dracula"></a> 
 <a href="https://github.com/Aldin285/Bibliotheque" target="_blank"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Aldin285&repo=Bibliotheque&theme=dracula"></a> 
 <a href="https://github.com/Aldin285/Loc-Auto" target="_blank"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Aldin285&repo=Loc-Auto&theme=dracula"></a>
- 
+
+ ## Langages appris
+  ### catégorie 1
+ [![My Skills](https://skillicons.dev/icons?i=js,html,css,cs,mongodb,mysql,nextjs,nodejs,php,postgres,prisma,py,react,tailwind,vue&perline=10)](https://skillicons.dev)
 
 
 
