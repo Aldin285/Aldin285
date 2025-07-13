@@ -1,4 +1,4 @@
-<a href="https://www.linkedin.com/in/alla-eddine-boukabou/" target="_blank">![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=LinkedIn)</a>
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=LinkedIn)](https://www.linkedin.com/in/alla-eddine-boukabou/)
 </br>
 <a href="https://www.linkedin.com/in/alla-eddine-boukabou/" target="_blank">
  
