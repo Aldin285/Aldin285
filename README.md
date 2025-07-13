@@ -1,12 +1,8 @@
-![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=LinkedIn)
-</br>
-<a href="https://www.linkedin.com/in/alla-eddine-boukabou/" target="_blank">
- 
 [![My Skills](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/alla-eddine-boukabou/)
 </a>
-
-## Hi there 👋
-Étudiant en B3 à Sup de Vinci, école d'informatique et d'ingénierie des systèmes informatiques.
+## Bonjour👋
+Je suis un étudiant en B3 à Sup de Vinci, école d'informatique et d'ingénierie des systèmes informatiques.
+Passionné par le développement web et curieux d'apprendre de nouvelles méthodologies, je réalise des projets avec différents langages et outils pour renforcer mes compétences en utilisant des solutions concrètes. 
 
 ## GitHub Stats
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=Aldin285&show_icons=true&count_private=true&theme=dracula" />
