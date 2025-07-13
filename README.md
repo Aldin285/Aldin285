@@ -1,8 +1,8 @@
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=LinkedIn)](https://www.linkedin.com/in/alla-eddine-boukabou/)
+![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=LinkedIn)
 </br>
 <a href="https://www.linkedin.com/in/alla-eddine-boukabou/" target="_blank">
  
-[![My Skills](https://skillicons.dev/icons?i=linkedin)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/alla-eddine-boukabou/)
 </a>
 
 ## Hi there 👋
