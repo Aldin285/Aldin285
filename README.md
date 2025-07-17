@@ -13,8 +13,7 @@ Passionné par le développement web et curieux d'apprendre de nouvelles méthod
 <a href="https://github.com/Aldin285/Bibliotheque" target="_blank"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Aldin285&repo=Bibliotheque&theme=dracula"></a> 
 <a href="https://github.com/Aldin285/Loc-Auto" target="_blank"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Aldin285&repo=Loc-Auto&theme=dracula"></a>
 
- ## Langages appris
-  ### catégorie 1
+ ## Langages, Framework et outils appris
  [![My Skills](https://skillicons.dev/icons?i=js,html,css,cs,mongodb,mysql,nextjs,nodejs,php,postgres,prisma,py,react,tailwind,vue&perline=10)](https://skillicons.dev)
 
 
